@@ -1,6 +1,15 @@
-# pesuvl
+# Pesuvl_Assignment
 
-A new Flutter project.
+Pesuvl_Assignment is a Flutter-based application that provides a seamless experience for recording, managing, and sharing audio files.
+
+## Features
+
+- **Audio Recording**: Easily record high-quality audio directly from your device.
+- **Local Storage**: All recordings are stored locally on your device, ensuring quick access and privacy.
+- **Playback**: Play your recorded audio files with an intuitive audio player.
+- **Audio Trimming**: Trim your recordings to keep only the parts you need.
+- **Sharing**: Share your audio recordings with others directly from the app.
+- **Manage Recordings**: Delete recordings that are no longer needed to keep your storage organized.
 
 ## Getting Started
 
