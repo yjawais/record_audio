@@ -13,9 +13,9 @@ Pesuvl_Assignment is a Flutter-based application that provides a seamless experi
 
 ## App Screenshots
 
-![Audio Recording Screenshot](assets/1.png)
-![Recording Screen Screenshot](assets/3.png)
-![Save Audio Recording Screenshot](assets/2.png)
-![All Recording Screenshot](assets/4.png)
-![Play Recording Screenshot](assets/5.png)
-![Share Recording Screenshot](assets/6.png)
+![Audio Recording Screenshot](assets/1.jpg)
+![Recording Screen Screenshot](assets/3.jpg)
+![Save Audio Recording Screenshot](assets/2.jpg)
+![All Recording Screenshot](assets/4.jpg)
+![Play Recording Screenshot](assets/5.jpg)
+![Share Recording Screenshot](assets/6.jpg)
