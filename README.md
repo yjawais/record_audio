@@ -11,15 +11,11 @@ Pesuvl_Assignment is a Flutter-based application that provides a seamless experi
 - **Sharing**: Share your audio recordings with others directly from the app.
 - **Manage Recordings**: Delete recordings that are no longer needed to keep your storage organized.
 
-## Getting Started
+## App Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Audio Recording Screenshot](assets/1.png)
+![Recording Screen Screenshot](assets/3.png)
+![Save Audio Recording Screenshot](assets/2.png)
+![All Recording Screenshot](assets/4.png)
+![Play Recording Screenshot](assets/5.png)
+![Share Recording Screenshot](assets/6.png)
