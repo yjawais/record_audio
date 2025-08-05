@@ -1,6 +1,6 @@
-# Pesuvl_Assignment
+# Record Audio
 
-Pesuvl_Assignment is a Flutter-based application that provides a seamless experience for recording, managing, and sharing audio files.
+Record Audio is a Flutter-based application that provides a seamless experience for recording, managing, and sharing audio files.
 
 ## Features
 
@@ -18,4 +18,5 @@ Pesuvl_Assignment is a Flutter-based application that provides a seamless experi
 ![Save Audio Recording Screenshot](assets/2.jpg)
 ![All Recording Screenshot](assets/4.jpg)
 ![Play Recording Screenshot](assets/5.jpg)
+
 ![Share Recording Screenshot](assets/6.jpg)
